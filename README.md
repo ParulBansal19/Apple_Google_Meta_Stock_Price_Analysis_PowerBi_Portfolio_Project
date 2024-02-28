@@ -6,13 +6,13 @@ As a Data Analyst, the task is to conduct a comprehensive analysis and visualiza
 
 ## Dashboard Requirements:
 
-1. Open and Close Stock Prices (Year by Year Analysis):
+### 1. Open and Close Stock Prices (Year by Year Analysis):
 
 •	Display the open and close stock prices for Google, Meta, and Apple.
 
 •	Provide a year-by-year breakdown for enhanced analysis.
 
-## 2. Max High and Min Low Stock Prices (Year by Year Analysis):
+### 2. Max High and Min Low Stock Prices (Year by Year Analysis):
 
 •	Showcase the maximum high stock price for Google, Meta, and Apple.
 
@@ -20,19 +20,19 @@ As a Data Analyst, the task is to conduct a comprehensive analysis and visualiza
 
 •	Present the data in a year-wise format for a detailed understanding.
 
-## 3. Adjusted Close Stock Prices (Year by Year Analysis):
+### 3. Adjusted Close Stock Prices (Year by Year Analysis):
 
 •	Visualize the adjusted close stock prices for Google, Meta, and Apple.
 
 •	Break down the information by year to identify trends and patterns.
 
-## 4. Volume of Stock Trades (Year by Year Analysis):
+### 4. Volume of Stock Trades (Year by Year Analysis):
 
 •	Illustrate the trading volume for Google, Meta, and Apple.
 
 •	Explore the volume trends over the specified period, delineated by years.
 
-## 5. Key Performance Indicators (KPIs):
+### 5. Key Performance Indicators (KPIs):
 
 •	Develop KPI measures for Average Open, Close, High, Low, Adjusted Close, and Volume.
 
