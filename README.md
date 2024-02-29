@@ -42,3 +42,10 @@ As a Data Analyst, the task is to conduct a comprehensive analysis and visualiza
 
 ## Key Insights:
 
+•	The Dataset spans from 07th Sep 2017 to 07th Sep 2022, covering a period of 5 years.
+
+•	Meta has highest opening and closing stock prices.
+
+•	Apple has highest trading volume.
+
+•	Meta has highest adjusted closing stock prices.
